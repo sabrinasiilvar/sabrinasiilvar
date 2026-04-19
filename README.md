@@ -15,5 +15,3 @@ Hoje, atuo como QA, com experiência em testes manuais e automatizados, validaç
 **Ferramentas de Gestão:** Jira, Azure DevOps e Trello  
 
 ## Em constante evolução ✨📈
-
-Sigo em constante desenvolvimento, buscando aprimorar minhas habilidades técnicas e contribuir com soluções que gerem valor e qualidade para os projetos.
